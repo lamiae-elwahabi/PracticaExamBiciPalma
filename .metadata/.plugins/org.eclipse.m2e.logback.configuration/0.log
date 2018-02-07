@@ -1,0 +1,10 @@
+2018-02-06 23:40:01,447 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-02-06 23:40:34,826 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Sonofkyuss\BiciPalma\PracticaExamBiciPalma\lamiaeElWahabi\pom.xml
+2018-02-06 23:40:36,022 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.mvpigs:lamiaeElWahabi:0.0.1-SNAPSHOT @ C:\Users\Sonofkyuss\BiciPalma\PracticaExamBiciPalma\lamiaeElWahabi\pom.xml.
+2018-02-06 23:40:36,614 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lamiaeElWahabi/src/main/java
+2018-02-06 23:40:36,614 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lamiaeElWahabi/src/test/java
+2018-02-06 23:40:37,294 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-02-06 23:40:38,091 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-06 23:40:38,091 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\BiciPalma\PracticaExamBiciPalma\lamiaeElWahabi\src\main\resources
+2018-02-06 23:40:38,107 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-06 23:40:38,107 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sonofkyuss\BiciPalma\PracticaExamBiciPalma\lamiaeElWahabi\src\test\resources
